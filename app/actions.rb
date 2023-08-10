@@ -56,4 +56,4 @@ end
 
  #humanized_time_ago(finstagram_post[:time_ago_in_minutes])
 
-# finstagram_post[:comments][0][:username]
+# finstagram_post[:comments][0][:username] 
